@@ -11,7 +11,7 @@ Done in Java. In short the questions boil down to:
 
 **Problem 1:** Finding the universal sink of a social network graph.\
 **Problem 2:** Twisting and Untwisting texts where the middle letters of each word are scrambled.\
-**Problem 3:** Increasing the winnings in a game involving placing numbers.\
+**Problem 3:** Increasing the winnings in a game involving placing numbers.
 
 ## Round 2
 https://bwinf.de/bundeswettbewerb/37/2-runde/
